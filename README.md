@@ -140,8 +140,6 @@ The result is {{result}}
 
 ![area of prism output](https://github.com/Thilakeshwaran/serversideprocessing/assets/147473132/489a90a3-931a-40b8-801b-8ee7878a514a)
 
-### Home Page:
-
-
 ## Result:
 
+The program area of prism is excuted sucessfully
